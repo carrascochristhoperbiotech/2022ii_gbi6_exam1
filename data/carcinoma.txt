@@ -1,0 +1,156 @@
+      1 B-cell adult acute lymphocytic leukemia
+      1 Sertoli-Leydig cell tumor
+      1 anal carcinoma
+      1 bladder squamous cell carcinoma
+      1 breast implant-associated anaplastic large cell lymphoma
+      1 breast metaplastic carcinoma
+      1 carcinoma of supraglottis
+      1 central nervous system germ cell tumor
+      1 clear cell meningioma
+      1 distal biliary tract carcinoma
+      1 endometrial squamous cell carcinoma
+      1 fallopian tube carcinoma
+      1 gastrointestinal carcinoma
+      1 granulosa cell tumor
+      1 malignant ovarian germ cell neoplasm
+      1 mature B-cell neoplasm
+      1 nonpapillary renal cell carcinoma
+      1 peritoneal carcinoma
+      1 pleomorphic adenoma carcinoma
+      1 salivary gland adenoid cystic carcinoma
+      1 small intestine carcinoma
+      1 spindle cell thymoma
+      1 thymic carcinoma
+      1 thymus squamous cell carcinoma
+      1 tongue carcinoma
+      2 Ehrlich tumor carcinoma
+      2 ampulla of Vater carcinoma
+      2 angioimmunoblastic T-cell lymphoma
+      2 breast secretory carcinoma
+      2 choroid plexus carcinoma
+      2 chromophobe renal cell carcinoma
+      2 embryonal testis carcinoma
+      2 fibrolamellar carcinoma
+      2 juvenile type testicular granulosa cell tumor
+      2 lung giant cell carcinoma
+      2 lung sarcomatoid carcinoma
+      2 mast-cell leukemia
+      2 myoepithelial carcinoma
+      2 ovarian germ cell cancer
+      2 penis squamous cell carcinoma
+      2 perivascular epithelioid cell tumor
+      2 primary mediastinal B-cell lymphoma
+      2 salivary gland carcinoma
+      2 sebaceous carcinoma
+      2 signet ring cell adenocarcinoma
+      3 T-cell large granular lymphocyte leukemia
+      3 acinar cell carcinoma
+      3 adenosquamous carcinoma
+      3 bronchus carcinoma
+      3 clear cell sarcoma
+      3 desmoplastic small round cell tumor
+      3 hairy cell leukemia
+      3 hereditary renal cell carcinoma
+      3 large cell carcinoma
+      3 lung adenoid cystic carcinoma
+      3 mammary analogue secretory carcinoma
+      3 mast cell neoplasm
+      3 ovarian clear cell adenocarcinoma
+      3 ovarian germ cell teratoma
+      3 supraglottis squamous cell carcinoma
+      3 vulva squamous cell carcinoma
+      4 aggressive NK-cell leukemia
+      4 anal squamous cell carcinoma
+      4 kidney clear cell sarcoma
+      4 lung large cell carcinoma
+      4 mucoepidermoid carcinoma
+      4 uterine corpus endometrial carcinoma
+      5 endometrioid ovary carcinoma
+      5 familial medullary thyroid carcinoma
+      5 familial renal papillary carcinoma
+      5 familiar ovarian carcinoma
+      5 head and neck carcinoma
+      5 large cell neuroendocrine carcinoma
+      5 lung oat cell carcinoma
+      5 marginal zone B-cell lymphoma
+      5 mixed cell type cancer
+      5 ovarian serous carcinoma
+      5 sarcomatoid carcinoma
+      5 small-cell carcinoma of the ovary of hypercalcemic type
+      6 Merkel cell carcinoma
+      6 plasma cell neoplasm
+      6 small cell carcinoma
+      7 inflammatory breast carcinoma
+      7 pancreatic endocrine carcinoma
+      8 NUT midline carcinoma
+      8 adrenocortical carcinoma
+      8 clear cell adenocarcinoma
+      8 ovarian clear cell carcinoma
+      8 pancreatic ductal carcinoma
+      9 T-cell adult acute lymphocytic leukemia
+      9 gallbladder carcinoma
+      9 invasive lobular carcinoma
+      9 neuroendocrine carcinoma
+      9 papillary carcinoma
+     10 germ cell cancer
+     11 invasive ductal carcinoma
+     11 thyroid gland anaplastic carcinoma
+     12 differentiated thyroid gland carcinoma
+     13 adenoid cystic carcinoma
+     13 embryonal carcinoma
+     14 laryngeal carcinoma
+     14 parathyroid carcinoma
+     17 breast ductal carcinoma
+     17 cervical squamous cell carcinoma
+     17 mesenchymal cell neoplasm
+     17 papillary renal cell carcinoma
+     17 tongue squamous cell carcinoma
+     18 luminal breast carcinoma A
+     19 bladder urothelial carcinoma
+     19 skin carcinoma
+     20 adult T-cell leukemia
+     20 basal cell carcinoma
+     20 cutaneous T cell lymphoma
+     21 thyroid gland follicular carcinoma
+     22 islet cell tumor
+     23 mantle cell lymphoma
+     23 thyroid gland medullary carcinoma
+     26 B-cell acute lymphoblastic leukemia
+     27 anaplastic large cell lymphoma
+     27 luminal breast carcinoma B
+     32 laryngeal squamous cell carcinoma
+     35 bladder carcinoma
+     35 esophageal carcinoma
+     37 transitional cell carcinoma
+     38 renal carcinoma
+     40 prostate carcinoma
+     42 skin squamous cell carcinoma
+     43 testicular germ cell cancer
+     44 colon carcinoma
+     47 liver carcinoma
+     51 T-cell lymphoblastic leukemia/lymphoma
+     54 pancreatic carcinoma
+     57 lung squamous cell carcinoma
+     59 lung carcinoma
+     60 thyroid gland carcinoma
+     61 endometrial carcinoma
+     63 cervix carcinoma
+     82 peripheral T-cell lymphoma
+     84 stomach carcinoma
+     85 clear cell renal cell carcinoma
+     91 thyroid gland papillary carcinoma
+     96 oral squamous cell carcinoma
+     98 colorectal carcinoma
+    113 squamous cell carcinoma
+    120 nasopharynx carcinoma
+    131 breast carcinoma
+    140 diffuse large B-cell lymphoma
+    140 lung small cell carcinoma
+    146 ovarian carcinoma
+    155 B-cell lymphoma
+    156 renal cell carcinoma
+    191 T-cell acute lymphoblastic leukemia
+    240 head and neck squamous cell carcinoma
+    377 esophagus squamous cell carcinoma
+    680 hepatocellular carcinoma
+    797 lung non-small cell carcinoma
